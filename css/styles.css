@@ -196,5 +196,9 @@ padding: 3% 2%;
     h3 {
         font-size: 1.5rem;
     }
+    .press-img {
+    margin: 1.25% 2.5%;
+    width: 15%;
+}
 }
 
